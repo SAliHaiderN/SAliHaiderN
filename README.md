@@ -1,21 +1,21 @@
 # 💫 About Me:
 
 🎓 *Bachelor of AI Student at FAST University Islamabad*  
-🥇 Bronze medalist in first semester, gold medalist in second semester.  
+🥇 Bronze medalist in first semester, gold medalist in second and third semester.  
 🚀 Passionate about creating innovative AI and software solutions.
 
 ### 💡 What I’m Working On
-- Developing *web applications, **mobile apps, and **AI-driven projects*.
+- Developing *web applications*, *mobile apps*, and *AI-driven projects*.
 - Contributing to *open-source projects* for real-world learning.
-- Exploring *advanced AI concepts, **machine learning models, and **code optimization*.
+- Exploring *advanced AI concepts*, *machine learning models*, and *code optimization*.
 
 ### 🛠 Technical Skills
-- *Web Development*: HTML, CSS, JavaScript, React, TailwindCSS
-- *Backend Technologies*: FastAPI, Django, Flask, Laravel
-- *Programming Languages*: Python, C++, C#, Java
-- *Databases*: MySQL, SQL Server, Firebase
-- *Game Development*: Unity, Python Turtle
-- *AI & Data Science*: NumPy, Pandas, Scikit-learn, TensorFlow
+- *Web Development*: HTML, CSS, JavaScript
+- *Backend Technologies*: Flask
+- *Programming Languages*: Python, C++, C#, Assembly
+- *Databases*: MySQL
+- *Game Development*: BrickBreaker, Snake, Scrabble, Snakes and Ladders
+- *AI & Data Science*: NumPy, Pandas, OpenCV, TensorFlow, Scikit
 
 ### 📌 My Experience at FAST University
 At FAST, I’ve worked on numerous projects that enhanced my problem-solving abilities and technical expertise. My focus is on designing efficient, scalable, and maintainable solutions.  
@@ -27,9 +27,8 @@ At FAST, I’ve worked on numerous projects that enhanced my problem-solving abi
 #### Leadership Roles:
 - Head of School Multimedia Team: Organized TEDx and award ceremonies.
 - Tutor: Taught Math, Physics, Chemistry, and Computer Science with a focus on personalized learning strategies.
+- Programming Fundamentals and Object Oriented Programming Tutor at GDGOC Islamabad
 
-#### Entrepreneurship:
-- Owner of **NI For Office Equipment Tr. LLC**, specializing in printer and copier rentals/leases.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/SAliHaiderN/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/SAliHaiderN/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SAliHaiderN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedalihn@outlook.com)
@@ -51,9 +50,10 @@ At FAST, I’ve worked on numerous projects that enhanced my problem-solving abi
 ---
 [![](https://visitcount.itsvg.in/api?id=SAliHaiderN&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAliHaiderN/SAliHaiderN/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SAliHaiderN/SAliHaiderN/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/SAliHaiderN/SAliHaiderN/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheBossMan110/TheBossMan110/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheBossMan110/TheBossMan110/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/TheBossMan110/TheBossMan110/output/github-snake.svg" />
 </picture>
 
