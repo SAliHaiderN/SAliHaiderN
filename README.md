@@ -31,7 +31,7 @@ At FAST, I’ve worked on numerous projects that enhanced my problem-solving abi
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/SAliHaiderN/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/SAliHaiderN/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SAliHaiderN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedalihn@outlook.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/its4.lli/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-ali-haider-naqvi05/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedalihn@outlook.com)
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
